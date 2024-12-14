@@ -1,7 +1,7 @@
 Hi, I'm Tobias. 
 
-I am currently working on my PhD addressing issues of performance consequences human-automation interaction at TU Berlin.
-Moreover, I am also interested in basic cognitive psychology (i.e., dual-tasking and visual search).
+I am a postdoc at TU Berlin working on issues of performance consequences human-automation and human-AI interaction.
+Moreover, I am also interested in trust towards AI support systems and also in basic cognitive psychology (i.e., dual-tasking and visual search).
 
 
 <!---
